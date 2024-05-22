@@ -1,4 +1,3 @@
-print("Hello_world") 
 
 import streamlit as st 
 st.text("Streamlit app hello world")
